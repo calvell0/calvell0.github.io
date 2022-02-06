@@ -110,3 +110,19 @@ label
   cursor: pointer;
 }
 
+a:link
+{
+  color: #456990;
+}
+a:active
+{
+  color: #456990;
+}
+a:visited
+{
+  color: #9736D3;
+}
+a:hover
+{
+  color: #EF6F6C;
+}
